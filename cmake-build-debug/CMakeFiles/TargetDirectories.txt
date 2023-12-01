@@ -1,0 +1,3 @@
+C:/Users/biiar/CLionProjects/estoqueLoja/cmake-build-debug/CMakeFiles/estoqueLoja.dir
+C:/Users/biiar/CLionProjects/estoqueLoja/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/biiar/CLionProjects/estoqueLoja/cmake-build-debug/CMakeFiles/rebuild_cache.dir
